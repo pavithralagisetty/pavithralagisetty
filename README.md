@@ -6,6 +6,7 @@
 - 📫 How to reach me **nagapavithralagisetty@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+linkedin: https://www.linkedin.com/in/naga-pavithra-lagisetty-614794211/
 <p align="left">
 </p>
 
