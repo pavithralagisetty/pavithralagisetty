@@ -8,7 +8,8 @@
 <h3 align="left">🏆 Hackathon Wins:</h3>
 
 - 🥈 **LeadCatch.ai** — 2nd Place, Startup Competition | AI-powered SMS lead capture platform | 💰 $1,500
-- 🏅 **Resculeine** — Hackathon Win | AI-powered project | 💰 $700
+- 🏅 **Resculeine** — 1st Place | AI-powered project | 💰 $700
+- 🏅 **SOC Claw** - Best Startup Idea, People Choice Award
 
 <h3 align="left">Connect with me:</h3>
 linkedin: https://www.linkedin.com/in/naga-pavithra-lagisetty-614794211/
